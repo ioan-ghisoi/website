@@ -1,5 +1,8 @@
 {
   "name": "website",
+  "author": {
+    "name": "Ioan Ghisoi"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
